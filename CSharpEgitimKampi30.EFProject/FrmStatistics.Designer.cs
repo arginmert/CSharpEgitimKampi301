@@ -80,7 +80,7 @@
             // 
             // panel1
             // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(121)))), ((int)(((byte)(121)))));
             this.panel1.Controls.Add(this.lblLocationCount);
             this.panel1.Controls.Add(this.label1);
             this.panel1.Location = new System.Drawing.Point(16, 15);
@@ -112,7 +112,7 @@
             // 
             // panel2
             // 
-            this.panel2.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(190)))), ((int)(((byte)(118)))));
             this.panel2.Controls.Add(this.lblSumCapacity);
             this.panel2.Controls.Add(this.label4);
             this.panel2.Location = new System.Drawing.Point(261, 15);
@@ -143,7 +143,7 @@
             // 
             // panel3
             // 
-            this.panel3.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel3.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(186)))), ((int)(((byte)(220)))), ((int)(((byte)(88)))));
             this.panel3.Controls.Add(this.lblGuideCount);
             this.panel3.Controls.Add(this.label6);
             this.panel3.Location = new System.Drawing.Point(512, 15);
@@ -174,7 +174,7 @@
             // 
             // panel4
             // 
-            this.panel4.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(223)))), ((int)(((byte)(249)))), ((int)(((byte)(251)))));
             this.panel4.Controls.Add(this.lblAvgCapacity);
             this.panel4.Controls.Add(this.label8);
             this.panel4.Location = new System.Drawing.Point(779, 15);
@@ -205,7 +205,7 @@
             // 
             // panel5
             // 
-            this.panel5.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(199)))), ((int)(((byte)(236)))), ((int)(((byte)(238)))));
             this.panel5.Controls.Add(this.lblTurkiyeAvgCapacity);
             this.panel5.Controls.Add(this.label10);
             this.panel5.Location = new System.Drawing.Point(779, 160);
@@ -236,7 +236,7 @@
             // 
             // panel6
             // 
-            this.panel6.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel6.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(106)))), ((int)(((byte)(176)))), ((int)(((byte)(76)))));
             this.panel6.Controls.Add(this.lblCappadociaLocationCapacity);
             this.panel6.Controls.Add(this.label12);
             this.panel6.Location = new System.Drawing.Point(512, 160);
@@ -267,7 +267,7 @@
             // 
             // panel7
             // 
-            this.panel7.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(147)))), ((int)(((byte)(43)))));
             this.panel7.Controls.Add(this.lblLastCountry);
             this.panel7.Controls.Add(this.label14);
             this.panel7.Location = new System.Drawing.Point(261, 160);
@@ -298,7 +298,7 @@
             // 
             // panel8
             // 
-            this.panel8.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel8.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(235)))), ((int)(((byte)(77)))), ((int)(((byte)(75)))));
             this.panel8.Controls.Add(this.lblAvgLocationPrice);
             this.panel8.Controls.Add(this.label16);
             this.panel8.Location = new System.Drawing.Point(16, 160);
@@ -329,7 +329,7 @@
             // 
             // panel9
             // 
-            this.panel9.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(149)))), ((int)(((byte)(175)))), ((int)(((byte)(192)))));
             this.panel9.Controls.Add(this.lblAysegulTourCount);
             this.panel9.Controls.Add(this.label18);
             this.panel9.Location = new System.Drawing.Point(779, 310);
@@ -360,7 +360,7 @@
             // 
             // panel10
             // 
-            this.panel10.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel10.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(34)))), ((int)(((byte)(166)))), ((int)(((byte)(179)))));
             this.panel10.Controls.Add(this.lblMaxPriceLocation);
             this.panel10.Controls.Add(this.label20);
             this.panel10.Location = new System.Drawing.Point(512, 310);
@@ -391,7 +391,7 @@
             // 
             // panel11
             // 
-            this.panel11.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(86)))), ((int)(((byte)(253)))));
             this.panel11.Controls.Add(this.lblMaxCapacityLocation);
             this.panel11.Controls.Add(this.label22);
             this.panel11.Location = new System.Drawing.Point(261, 310);
@@ -422,7 +422,7 @@
             // 
             // panel12
             // 
-            this.panel12.BackColor = System.Drawing.SystemColors.ActiveCaption;
+            this.panel12.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(104)))), ((int)(((byte)(109)))), ((int)(((byte)(224)))));
             this.panel12.Controls.Add(this.lblRomeGuide);
             this.panel12.Controls.Add(this.label24);
             this.panel12.Location = new System.Drawing.Point(16, 310);
